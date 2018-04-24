@@ -1,0 +1,2 @@
+# suolakaivos
+Local salt example
